@@ -1,0 +1,24 @@
+.sort.up{
+    cursor: pointer;
+    width:35px;
+    height:35px;
+    background-image: url("../i/arrow-up.svg");
+    display: inline-block;
+    content: "";
+    background-repeat: no-repeat;
+    background-size: 35px 35px;
+}
+.sort.down{
+    cursor: pointer;
+    width:35px;
+    height:35px;
+    background-image: url("../i/arrow-down.svg");
+    display: inline-block;
+    content: "";
+    background-repeat: no-repeat;
+    background-size: 35px 35px;
+}
+
+.is-error{
+    border:1px solid red
+}
